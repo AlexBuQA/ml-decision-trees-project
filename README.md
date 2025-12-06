@@ -1,3 +1,4 @@
+[![Test Notebook](https://github.com/AlexBuQA/ml-decision-trees-project/actions/workflows/test.yml/badge.svg)](https://github.com/AlexBuQA/ml-decision-trees-project/actions/workflows/test.yml)
 # Сессионное задание по дисциплине «Дополнительные главы высшей математики» - `Александра Бужор`
 # Итоговый проект: От дерева решений к ансамблю и кластеризации
 
