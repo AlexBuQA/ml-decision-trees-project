@@ -26,7 +26,7 @@
 
 ### 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/твой-username/ml-project.git
+git clone https://github.com/AlexBuQA/ml-decision-trees-project.git
 cd ml-project
 ```
 
